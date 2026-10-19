@@ -1,0 +1,14 @@
+# data (course data, not to be committed)
+data/*
+!data/.gitkeep
+
+# course-provided helper module, not mine to publish
+wp7_helpers.py
+
+# notebook / python junk
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# os
+.DS_Store
