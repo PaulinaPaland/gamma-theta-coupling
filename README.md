@@ -66,8 +66,6 @@ off single channels.
 - `rad` and `lm` prefer theta phases roughly 90-100 degrees apart, and this separation holds up across the threshold/frequency robustness sweep, consistent with Schomburg et al. 2014
 - `ca1Pyr` (local fast gamma) shows weaker, less consistent phase locking, which fits it being locally generated rather than driven by a phase-locked afferent input
 
-![Anatomical regions](figures/Anatomical_regions.png)
-*CA1 layers and the channels assigned to each region on the probe.*
 
 ![ICA mixing matrix](figures/Mixing_Matrix.png)
 *Per-shank ICA mixing matrix (channel loadings) feeding into the CSD step.*
